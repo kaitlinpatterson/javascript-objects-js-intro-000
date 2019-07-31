@@ -1,1 +1,1 @@
-var playlist{kesha : "tik tok", chanceTheRapper : "Sunday"}
+var playlist = {kesha : "tik tok", chanceTheRapper : "Sunday"}
